@@ -7,6 +7,7 @@ This project focuses on analyzing HR data of a business using Excel for data sto
 
 ## How to Use
 1. Clone or Download the Repository.
+   
 2. Power BI Dashboard
 - Open Power BI File:
   - Open the Power BI file (.pbix) located in the dashboard directory using Power BI Desktop.
@@ -28,5 +29,6 @@ This project provides a detailed analysis of HR data of an organization, deliver
 
 For any questions or further assistance, please feel free to contact me.
 
-    - Dhananjaya Mudunkotuwa
-    - dhananjayamudunkotuwa1998@gmail.com
+Dhananjaya Mudunkotuwa
+
+dhananjayamudunkotuwa1998@gmail.com
