@@ -29,4 +29,5 @@ This project provides a detailed analysis of HR data of an organization, deliver
 
 For any questions or further assistance, please feel free to contact me.
 
-Dhananjaya Mudunkotuwa   dhananjayamudunkotuwa1998@gmail.com
+Dhananjaya Mudunkotuwa   
+dhananjayamudunkotuwa1998@gmail.com
