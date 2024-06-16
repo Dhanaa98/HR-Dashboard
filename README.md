@@ -23,6 +23,7 @@ The analysis aims to uncover key trends and insights within the HR data, such as
 - Demographic Insights: Analysis of employee demographics, including age, gender, and education.
 - Departmental Performance: Evaluation of performance and satisfaction across different departments.
 - Job Satisfaction: Insights into job satisfaction and factors influencing it.
+- Income Insights: Analysis of income levels across job roles.
 
 # Conclusion
 This project provides a detailed analysis of HR data of an organization, delivering valuable insights to enhance employee management and organizational performance. By leveraging Excel for data storage and Power BI for visualization, the project establishes a robust framework for continuous monitoring and improvement of HR practices.
