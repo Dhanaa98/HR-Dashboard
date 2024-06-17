@@ -1,5 +1,7 @@
 # Overview
 This project focuses on analyzing HR data of a business using Excel for data storage and Power BI for visualization. The goal is to provide actionable insights for HR professionals and business stakeholders to improve employee management, determine major causes of attrition, reduce attrition, and enhance overall organizational performance.
+![HR Dashboard](https://github.com/Dhanaa98/HR-Dashboard/assets/171159250/a73b6e0d-d616-4417-a013-556f7df9ba5f)
+
 
 ## Tools and Technologies
 - Excel: Used as the source for raw HR data.
